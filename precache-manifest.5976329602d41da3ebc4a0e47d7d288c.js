@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "255f9a9535161b50740d374d3e4e857e",
+    "revision": "b2193b24f9bc8c42d668b024578dd217",
     "url": "/gitdotlabs/index.html"
   },
   {
-    "revision": "79c4cce958fb663abc9e",
-    "url": "/gitdotlabs/static/css/main.c592ff75.chunk.css"
+    "revision": "5712fef789f7cec41315",
+    "url": "/gitdotlabs/static/css/main.4275b2f2.chunk.css"
   },
   {
     "revision": "316dccf3df86ae0b7d33",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/gitdotlabs/static/js/2.5c6c93db.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "79c4cce958fb663abc9e",
+    "revision": "5712fef789f7cec41315",
     "url": "/gitdotlabs/static/js/main.3762a755.chunk.js"
   },
   {

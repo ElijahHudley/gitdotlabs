@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/gitdotlabs/static/css/main.c592ff75.chunk.css",
+    "main.css": "/gitdotlabs/static/css/main.4275b2f2.chunk.css",
     "main.js": "/gitdotlabs/static/js/main.3762a755.chunk.js",
     "main.js.map": "/gitdotlabs/static/js/main.3762a755.chunk.js.map",
     "runtime-main.js": "/gitdotlabs/static/js/runtime-main.06860a97.js",
@@ -8,16 +8,16 @@
     "static/js/2.5c6c93db.chunk.js": "/gitdotlabs/static/js/2.5c6c93db.chunk.js",
     "static/js/2.5c6c93db.chunk.js.map": "/gitdotlabs/static/js/2.5c6c93db.chunk.js.map",
     "index.html": "/gitdotlabs/index.html",
-    "precache-manifest.e47186abc184ba19bf3c68cacadb8a27.js": "/gitdotlabs/precache-manifest.e47186abc184ba19bf3c68cacadb8a27.js",
+    "precache-manifest.5976329602d41da3ebc4a0e47d7d288c.js": "/gitdotlabs/precache-manifest.5976329602d41da3ebc4a0e47d7d288c.js",
     "service-worker.js": "/gitdotlabs/service-worker.js",
-    "static/css/main.c592ff75.chunk.css.map": "/gitdotlabs/static/css/main.c592ff75.chunk.css.map",
+    "static/css/main.4275b2f2.chunk.css.map": "/gitdotlabs/static/css/main.4275b2f2.chunk.css.map",
     "static/js/2.5c6c93db.chunk.js.LICENSE.txt": "/gitdotlabs/static/js/2.5c6c93db.chunk.js.LICENSE.txt",
     "static/media/GitHub_Logo_White.png": "/gitdotlabs/static/media/GitHub_Logo_White.064ace47.png"
   },
   "entrypoints": [
     "static/js/runtime-main.06860a97.js",
     "static/js/2.5c6c93db.chunk.js",
-    "static/css/main.c592ff75.chunk.css",
+    "static/css/main.4275b2f2.chunk.css",
     "static/js/main.3762a755.chunk.js"
   ]
 }
