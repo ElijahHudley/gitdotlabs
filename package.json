@@ -1,8 +1,8 @@
 {
-  "name": "thisdotlab",
+  "name": "gitdotlabs",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://elijahhudley.github.io/dotlabs",
+  "homepage": "http://elijahhudley.github.io/gitdotlabs",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
