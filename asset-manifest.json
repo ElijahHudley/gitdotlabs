@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/dotlabs/static/css/main.c592ff75.chunk.css",
+    "main.js": "/dotlabs/static/js/main.612f9eab.chunk.js",
+    "main.js.map": "/dotlabs/static/js/main.612f9eab.chunk.js.map",
+    "runtime-main.js": "/dotlabs/static/js/runtime-main.babbe6db.js",
+    "runtime-main.js.map": "/dotlabs/static/js/runtime-main.babbe6db.js.map",
+    "static/js/2.28d5a6ff.chunk.js": "/dotlabs/static/js/2.28d5a6ff.chunk.js",
+    "static/js/2.28d5a6ff.chunk.js.map": "/dotlabs/static/js/2.28d5a6ff.chunk.js.map",
+    "index.html": "/dotlabs/index.html",
+    "precache-manifest.b8dff8ab5cd4a16db8fb6ab26ba85a2a.js": "/dotlabs/precache-manifest.b8dff8ab5cd4a16db8fb6ab26ba85a2a.js",
+    "service-worker.js": "/dotlabs/service-worker.js",
+    "static/css/main.c592ff75.chunk.css.map": "/dotlabs/static/css/main.c592ff75.chunk.css.map",
+    "static/js/2.28d5a6ff.chunk.js.LICENSE.txt": "/dotlabs/static/js/2.28d5a6ff.chunk.js.LICENSE.txt",
+    "static/media/GitHub_Logo_White.png": "/dotlabs/static/media/GitHub_Logo_White.064ace47.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.babbe6db.js",
+    "static/js/2.28d5a6ff.chunk.js",
+    "static/css/main.c592ff75.chunk.css",
+    "static/js/main.612f9eab.chunk.js"
+  ]
+}
