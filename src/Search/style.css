@@ -23,11 +23,8 @@
    font-size: 32px;
    font-weight: bold;
    text-align: center;
-   
-   position: absolute;
-   left: 50%;
-   top: 50%;
-   transform: translate(-50%, -50%);
+   background-color: white;
+   padding: 8px;
 }
 
  .search-container {
@@ -52,14 +49,14 @@
 }
 
 .search-form-button {
-   width: 50%;
+   width: 40%;
    height: 40px;
    margin-top: 16px;
    background-color: #5788d5;
    border: none;
    color: white;
    border-radius: 3px;
-   font-size: 24px;
+   font-size: 16px;
    font-weight: bold;
 }
 
